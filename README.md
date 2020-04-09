@@ -14,6 +14,7 @@ This is my second project for Udacity's "Introduction to Machine Learning with T
 - GPU required
 
 **Data**
+
 The dataset used is [Oxford 102 Category Flower Dataset]( http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html ).
 
 **[License]( https://github.com/devranjan/Image-Classifier-TensorFlow/blob/master/LICENSE )**
